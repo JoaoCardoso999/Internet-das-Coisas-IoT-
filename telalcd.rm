@@ -13,9 +13,9 @@ toda vez que alguém se aproxime a menos de 1 metro do sensor.
 - 14 jumpers Macho/Macho
 - 3 jumpers Macho/Fêmea
 
-## Monteagem de Circuito
+## Montagem de Circuito
 
-![Imagen do circuito](IMAGEMLCD1.png)
+![Imagen do circuito](/IMAGEMLCD1.png)
 
 ## Explicação do Código
 
