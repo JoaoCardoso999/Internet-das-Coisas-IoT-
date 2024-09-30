@@ -15,7 +15,7 @@ toda vez que alguém se aproxime a menos de 1 metro do sensor.
 
 ## Montagem de Circuito
 
-![Imagen do circuito](TelaLCD1.png)
+![Imagen do circuito](IMAGENLCD1.png)
 
 ## Explicação do Código
 
